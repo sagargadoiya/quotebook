@@ -8,3 +8,5 @@ dfsd
 
 
 Adding one more qupote
+
+Added quote on remote repository
